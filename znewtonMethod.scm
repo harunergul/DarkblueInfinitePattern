@@ -30,4 +30,5 @@
 
 )
 
+(newline)
 (display  (sqrt-iter 9 100) )
